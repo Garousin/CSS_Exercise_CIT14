@@ -1,0 +1,26 @@
+.box {
+    border: 5px solid saddlebrown;
+    background-color: rgb(214, 79, 79);
+    padding: 0px;
+    margin: 40px;
+    width: 30px;
+    height: 150px;
+  }
+  
+  .box1 {
+    border: 10px solid rgb(61, 19, 139);
+    background-color: rgb(223, 247, 7);
+    padding: 20px;
+    margin: 0px;
+    width: 80px;
+    height: 20px;
+  }
+
+  .box2 {
+    border: 35px solid saddlebrown;
+    background-color: rgb(12, 11, 11);
+    padding: 360px;
+    margin: 10px;
+    width: 100px;
+    height: 150px;
+  }
